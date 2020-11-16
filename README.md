@@ -1,7 +1,7 @@
 # EDA of Human Trafficking Survivors Project
 
 ### How to Run:
-To run my projects, simply click human_trafficking_survivors.ipynb and GitHub will load the Jupyter file. The CSV I used is also avalible above. (sometimes GitHub is finicky with Jupyter, if so, the project can also be loaded at: caly-pso.github.io/human_trafficking_survivors.html
+To run my projects, simply click human_trafficking_survivors.ipynb and GitHub will load the Jupyter file. The CSV I used is also avalible above. (sometimes GitHub is finicky with Jupyter, if so, the project can also be loaded at: https://caly-pso.github.io/human_trafficking_survivors.html
 
 
 ## An Exploration of Survivors
