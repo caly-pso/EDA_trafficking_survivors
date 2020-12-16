@@ -16,6 +16,9 @@
 
 To use data analysis to gain insight on the scope of human trafficking survivors, as well as the limitations the data provides.
 
+[(View the Jupyter file here)](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/human_trafficking_survivors.ipynb)
+[(View rendered file here as an HTML)](https://github.com/caly-pso/EDA_trafficking_survivors)
+
 <br>
 
 # EDA of Human Trafficking Survivors Project
