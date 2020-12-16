@@ -14,6 +14,8 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#TL;DR)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#TL;DR)
 
+<br>
+
 # TL;DR
 
 To use data analysis to gain insight on the scope of human trafficking survivors, as well as the limitations the data provides.
