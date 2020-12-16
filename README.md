@@ -1,6 +1,9 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#TL;DR)
+[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#TL;DR)
+
+# EDA of Human Trafficking Survivors Project
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
@@ -10,8 +13,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#TL;DR)
 [![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#TL;DR)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#TL;DR)
-
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#TL;DR)
 
 # TL;DR
 
@@ -25,9 +26,10 @@ To use data analysis to gain insight on the scope of human trafficking survivors
 
 # Table of contents
 
+- [EDA of Human Trafficking Survivors Project](#EDA-of-human-trafficking-survivors-project)
 - [TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
-- [EDA of Human Trafficking Survivors Project](#EDA-of-human-trafficking-survivors-project)
+- [Background](#background)
 - [Preview](#preview)
 - [Installation](#installation)
 - [License](#license)
@@ -36,7 +38,7 @@ To use data analysis to gain insight on the scope of human trafficking survivors
 
 <br>
 
-# EDA of Human Trafficking Survivors Project
+# Background
 
 <!-- project in breif -->
 <!-- Background
