@@ -1,7 +1,6 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#TL;DR)
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
@@ -11,6 +10,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#TL;DR)
 [![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#TL;DR)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#TL;DR)
+
+[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#TL;DR)
 
 # TL;DR
 
