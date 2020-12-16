@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#tl;dr)
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivors.jpg)](#tl;dr)
+[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#tl;dr)
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
@@ -139,10 +139,9 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # Visit My Other Projects
 
-- Python
-  - [COVID-19 App](https://github.com/caly-pso/covid_app)
-  - [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
-  - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
+- [COVID-19 App](https://github.com/caly-pso/covid_app)
+- [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
+- [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
 
