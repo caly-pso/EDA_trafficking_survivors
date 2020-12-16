@@ -1,16 +1,16 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#tl;dr)
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#tl;dr)
+[![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#)
+[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#)
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/EDA_trafficking_survivors?style=flat-square)](#tl;dr)
+[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
 [![GitHub](https://img.shields.io/github/repo-size/caly-pso/EDA_trafficking_survivors?style=flat-square)](#tl;dr)
-![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#tl;dr)
-[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#tl;dr)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#tl;dr)
+[!GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
+[![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
 
 # TL;DR
 
@@ -31,11 +31,11 @@ Data Description -->
 
 <!-- buttons -->
 
-[![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)](#tl;dr)
-[![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)](#tl;dr)
-[![Skills](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)](#tl;dr)
-[![Skills](https://img.shields.io/badge/-Seaborn-red?style=for-the-badge)](#tl;dr)
-[![Skills](https://img.shields.io/badge/-Plotly-lightgrey?style=for-the-badge)](#tl;dr)
+[![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)](#)
+[![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)](#)
+[![Skills](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)](#)
+[![Skills](https://img.shields.io/badge/-Seaborn-red?style=for-the-badge)](#)
+[![Skills](https://img.shields.io/badge/-Plotly-lightgrey?style=for-the-badge)](#)
 
 <!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
 successimportantcriticalinformationalinactive
