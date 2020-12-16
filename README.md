@@ -73,7 +73,7 @@ Human trafficking can happen anywhere, and predominatly affects children and you
 
 # Installation
 
-#### [(Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 Navigate to the folder you wish to use
 
@@ -136,7 +136,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # License
 
-#### [(Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 [MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
 
@@ -146,7 +146,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # Visit My Other Projects
 
-#### (Back to top)](#table-of-contents)
+###### [(Back to top)](#table-of-contents)
 
 - [COVID-19 App](https://github.com/caly-pso/covid_app)
 - [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
