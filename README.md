@@ -22,6 +22,19 @@ To use data analysis to gain insight on the scope of human trafficking survivors
 
 <br>
 
+# Table of contents
+
+- [TL;DR](#TL;DR)
+- [Table of contents](#table-of-contents)
+- [EDA of Human Trafficking Survivors Project](#EDA-of-human-trafficking-survivors-project)
+- [Preview](#preview)
+- [Installation](#installation)
+- [License](#license)
+- [Visit My Other Projects](#visit-my-other-projects)
+- [Contact Me](#contact-me)
+
+<br>
+
 # EDA of Human Trafficking Survivors Project
 
 <!-- project in breif -->
@@ -50,19 +63,6 @@ Human trafficking can happen anywhere, and predominatly affects children and you
 <!-- project preview -->
 
 [![Notebook Preview](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/preview.png)](https://caly-pso.github.io/project_link/human_trafficking_survivors.html)
-
-<br>
-
-# Table of contents
-
-- [TL;DR](#TL;DR)
-- [EDA of Human Trafficking Survivors Project](#EDA-of-human-trafficking-survivors-project)
-- [Preview](#preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [License](#license)
-- [Visit My Other Projects](#visit-my-other-projects)
-- [Contact Me](#contact-me)
 
 <br>
 
