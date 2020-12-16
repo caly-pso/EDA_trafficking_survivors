@@ -7,8 +7,8 @@
 <!-- https://shields.io/ -->
 
 [![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
-[![GitHub](https://img.shields.io/github/repo-size/caly-pso/EDA_trafficking_survivors?style=flat-square)](#tl;dr)
-[!GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
+[![GitHub](https://img.shields.io/github/repo-size/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
 [![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)](#)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/EDA_trafficking_survivors?style=flat-square)](#)
 
