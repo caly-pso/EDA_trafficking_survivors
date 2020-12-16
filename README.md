@@ -65,6 +65,8 @@ Human trafficking can happen anywhere, and predominatly affects children and you
 
 # Preview
 
+###### [(Back to top)](#table-of-contents)
+
 <!-- project preview -->
 
 [![Notebook Preview](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/preview.png)](https://caly-pso.github.io/project_link/human_trafficking_survivors.html)
@@ -138,7 +140,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-[MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
+[MIT Public License](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/LICENSE)
 
 <br>
 
