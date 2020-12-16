@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#tl;dr)
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivors.jpeg)](#tl;dr)
+[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivors.jpg)](#tl;dr)
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
