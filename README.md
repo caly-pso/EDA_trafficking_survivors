@@ -45,7 +45,7 @@ Human trafficking can happen anywhere, and predominatly affects children and you
 
 <!-- project preview -->
 
-[![Notebook Preview](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/preview.png)](/img/human_trafficking_survivors.html)
+[![Notebook Preview](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/preview.png)]('/img/human_trafficking_survivors.html')
 
 <br>
 
