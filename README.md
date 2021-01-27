@@ -42,7 +42,7 @@ To use data analysis to gain insight on the scope of human trafficking survivors
 
 # Background
 
-<!-- project in breif -->
+<!-- project in brief -->
 <!-- Background
 Problem Statement
 Data Description -->
@@ -59,7 +59,7 @@ Data Description -->
 successimportantcriticalinformationalinactive
 bluevioletff69b49cf-->
 
-Human trafficking can happen anywhere, and predominatly affects children and young adults. This is a difficult statistic to track, as getting help to those entraped by human trafficking is difficult, and keeping their information safe once they become surviors is imperative. The [Counter-Trafficking Data Collaborative](https://www.ctdatacollaborative.org/) has created a international platform where individual organizations are able to upload their tracking data of survivors. As this only tracks those who have been able to escape trafficking, we can assume the number of individuales trafficking affects is much larger. Using this data however, we can get a glimps of who is affected, and how, leading to better strategies of breaking the cycle as a whole.
+Human trafficking can happen anywhere, and predominantly affects children and young adults. This is a difficult statistic to track, as getting help to those entrapped by human trafficking is difficult, and keeping their information safe once they become survivors is imperative. The [Counter-Trafficking Data Collaborative](https://www.ctdatacollaborative.org/) has created a international platform where individual organizations are able to upload their tracking data of survivors. As this only tracks those who have been able to escape trafficking, we can assume the number of individuals trafficking affects is much larger. Using this data however, we can get a glimpse of who is affected, and how, leading to better strategies of breaking the cycle as a whole.
 
 <br>
 
@@ -83,7 +83,7 @@ Navigate to the folder you wish to use
 cd Users/me/Desktop
 ```
 
-Initalize git
+Initialize git
 
 ```bash
 git init
@@ -132,7 +132,7 @@ Navigate to the file EDA_trafficking_survivors.ipynb
 
 [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
 
 <br> -->
 
