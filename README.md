@@ -150,8 +150,8 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-- [COVID-19 App](https://github.com/caly-pso/covid_app)
-- [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
+- [Disease Dashboard App](https://github.com/caly-pso/disease_dashboard_app)
+- [Formula 1 Analysis](https://github.com/caly-pso/formula1_analysis)
 - [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
