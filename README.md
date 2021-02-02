@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/survivor.jpg)](#TL;DR)
+[![Header](/img/header.png)](#TL;DR)
+[![Banner](/img/survivor.jpg)](#TL;DR)
 
 # EDA of Human Trafficking Survivors Project
 
@@ -20,7 +20,7 @@
 
 To use data analysis to gain insight on the scope of human trafficking survivors, as well as the limitations the data provides.
 
-[View the Jupyter file here](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/human_trafficking_survivors.ipynb)
+[View the Jupyter file here](/human_trafficking_survivors.ipynb)
 
 [View rendered file here as an HTML](https://caly-pso.github.io/project_link/human_trafficking_survivors.html)
 
@@ -69,7 +69,7 @@ Human trafficking can happen anywhere, and predominantly affects children and yo
 
 <!-- project preview -->
 
-[![Notebook Preview](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/img/preview.png)](https://caly-pso.github.io/project_link/human_trafficking_survivors.html)
+[![Notebook Preview](/img/preview.png)](https://caly-pso.github.io/project_link/human_trafficking_survivors.html)
 
 <br>
 
@@ -140,7 +140,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-[MIT Public License](https://github.com/caly-pso/EDA_trafficking_survivors/blob/main/LICENSE)
+[MIT Public License](/main/LICENSE)
 
 <br>
 
@@ -158,4 +158,4 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # Contact Me
 
-[![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+[![Footer](/img/footer.png)](#contact-me)
