@@ -152,7 +152,6 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 - [Disease Dashboard App](https://github.com/caly-pso/disease_dashboard_app)
 - [Formula 1 Analysis](https://github.com/caly-pso/formula1_analysis)
-- [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
 
 <br>
 
