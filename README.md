@@ -128,14 +128,6 @@ jupyter notebook
 Navigate to the file EDA_trafficking_survivors.ipynb
 <br>
 
-<!-- # Development
-
-[(Back to top)](#table-of-contents)
-
-To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
-
-<br> -->
-
 # License
 
 ###### [(Back to top)](#table-of-contents)
