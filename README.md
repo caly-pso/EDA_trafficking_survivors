@@ -22,7 +22,7 @@ To use data analysis to gain insight on the scope of human trafficking survivors
 
 <a href="/human_trafficking_survivors.ipynb" class="button">View as ipynb</a>
 
-<a href="https://caly-pso.github.io/project_link/human_trafficking_survivors.html" class="button">View in Your Browser</a>
+<a href="https://caly-pso.github.io/project_link/survivors.html" class="button">View in Your Browser</a>
 
 <br>
 
