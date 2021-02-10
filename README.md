@@ -20,9 +20,9 @@
 
 To use data analysis to gain insight on the scope of human trafficking survivors, as well as the limitations the data provides.
 
-<button type="button" name="button" class="btn"><a href"/human_trafficking_survivors.ipynb"View as ipynb</a></button>
+<button type="button" name="button" class="btn"><a href"/human_trafficking_survivors.ipynb">View as ipynb</a></button>
 
-<button type="button" name="button" class="btn"><a href"https://caly-pso.github.io/project_link/human_trafficking_survivors.html"View in Your Browser</a></button>
+<button type="button" name="button" class="btn"><a href"https://caly-pso.github.io/project_link/human_trafficking_survivors.html">View in Your Browser</a></button>
 
 <br>
 
